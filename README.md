@@ -1,3 +1,7 @@
+## 🚀 Live Demo
+
+🌐 [Click here to view FinWell](https://finwell-1.onrender.com)
+
 # FinWell — Financial Wellness Platform
 
 Interview-ready starter project for Software Development + DevOps preparation.
