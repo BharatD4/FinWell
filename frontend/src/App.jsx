@@ -35,7 +35,7 @@ import {
   Bar
 } from "recharts";
 
-const API_URL = "http://localhost:5000/api";
+const API_URL ="https://finwell-okf7.onrender.com/api";
 
 const trend = [
   { month: "Mar", income: 42000, expense: 25000 },
